@@ -13,7 +13,7 @@ ___
 
 ___
 
-<div id="badges" align="center">
+<div id="badges" align="left">
 <h3>Programming language</h3>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
