@@ -79,11 +79,3 @@ ___
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   </a>
 </div>
-
-___
-
-<div align="center">  
-
-  ![Abdrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewIsaev)
-  
-</div>
