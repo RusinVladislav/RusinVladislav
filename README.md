@@ -1,12 +1,12 @@
-<h1 align="center">Hi, everybody! I'm Andrey 👋</h1>
+<h1 align="center">Hi, everybody! I'm Vladislav 👋</h1>
 <h3 align="center">Python backend developer 🐍</h3>
-<h3 align="center">Nizhny Novgorod📍</h3>
+<h3 align="center">Minsk Republic of Belarus📍</h3>
 
 ___
 
 <div id="badges" align="center">
 <h3>🌐 Contacts</h3>
-  <a href="https://t.me/IsaevAndrey">
+  <a href="https://t.me/Rusin_Vladislav">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
