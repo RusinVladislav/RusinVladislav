@@ -5,8 +5,7 @@
 ___
 
 <div id="badges" align="center">
-<h2>🌐 Contacts</h2>
-  <a href="https://t.me/Rusin_Vladislav">
+<h2>🌐 Contacts</h2> <a href="https://t.me/Rusin_Vladislav">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </div>
